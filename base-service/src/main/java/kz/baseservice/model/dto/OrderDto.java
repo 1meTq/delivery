@@ -10,7 +10,6 @@ import lombok.experimental.FieldDefaults;
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class OrderDto {
 
-    Long orderId;
     String name;
     int quantity;
     Double price;
