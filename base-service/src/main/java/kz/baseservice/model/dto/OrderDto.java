@@ -14,5 +14,6 @@ public class OrderDto {
     int quantity;
     Double price;
 
+    String test;
 
 }
